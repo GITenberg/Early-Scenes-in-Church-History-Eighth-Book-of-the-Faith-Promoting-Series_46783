@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Early Scenes in Church History
 
   Eighth Book of the Faith-Promoting Series'
